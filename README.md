@@ -1,8 +1,8 @@
 # Color palettes
 
-I found this color palettes online and figured it would be nice to save them for later use!
+I found these color palettes online and figured it would be nice to save them for later use!
 
- * Another 100 color palettes can be found here: https://www.canva.com/learn/100-color-combinations/.
+ * An additional 100 palettes can be found here: https://www.canva.com/learn/100-color-combinations/.
 
 ## Author
 
